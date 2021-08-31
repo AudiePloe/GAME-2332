@@ -7,15 +7,19 @@ the player will have to traval and navigate various paths and waypoints to compl
 
 ## Scene
 
-The game takes place in the national parks of the United States, not scanned per detail, but matching terrain and notable sights.
+The game takes place in the national parks of the United States, not scanned per detail, but matching terrain and notable sights. 
+Each park already has its own notable features so each recreation would include those plus a semi prosedural enviroment that the player must traverse.
 
 ## Setting
 
-The world is just like our own, nothing is changed.
+The world is just like our own, nothing is changed other than the exact layout of these parks. Perhaps later in the game there could be parks 
+in far off lands of remote countries or islands that are more challenging or dangerous.
 
 ## Character
 
-The character is a determined camper or backpacker, their goal is to treck and camp in all parks at the most remote spots.
+The character is a determined camper or backpacker, their goal is to treck and camp in all parks at the most remote spots. 
+Your character starts as a novice camper with basic and cheap gear, and can progress to become the greatest camper that has ever lived, 
+using the most up to date and specialized gear.
 
 ## Character Progression
 
